@@ -1,6 +1,6 @@
-#Jogo de Advinhação
-##Versão: 1.0
-###Status do Projeto: ✔️ Concluído 
+# Jogo de Advinhação
+## Versão: 1.0
+### Status do Projeto: ✔️ Concluído 
 Tópicos
 🔹 Descrição do projeto
 Um jogo de advinhação simples que o usuario tem quer advinhar um numero de 1 a 100
