@@ -1,14 +1,16 @@
 # Jogo de Advinhação
 ## Versão: 1.0
 ### Status do Projeto: ✔️ Concluído 
+
 Tópicos
-🔹 Descrição do projeto
+
+🔹 Descrição do projeto:
 Um jogo de advinhação simples que o usuario tem quer advinhar um numero de 1 a 100
 
-🔹 Recursos inseridos
+🔹 Recursos inseridos:
 Classes e metodos
 
-🔹 Desenvolvedores/Contribuintes
+🔹 Desenvolvedores/Contribuintes:
 Arthur Iwata
 
 
