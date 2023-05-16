@@ -1,25 +1,26 @@
 # Jogo de Advinhação
-## Versão: 1.0
+## Versão: 1.0 
 ### Status do Projeto: ✔️ Concluído 
+### Tópicos 
+### 🔹 Descrição do projeto:
 
-Tópicos
+Um jogo de advinhação dos números 1 a 100
 
-🔹 Descrição do projeto:
-
-Um jogo de advinhação simples que o usuario tem quer advinhar um numero de 1 a 100
-
-🔹 Recursos inseridos:
+### 🔹 Recursos inseridos:
 
 Classes e metodos
 
-🔹 Desenvolvedores/Contribuintes:
+### 🔹 Desenvolvedores/Contribuintes:
 
 Arthur Iwata
 
-
-Um simples jogo de advinhação usando, as funções de classe e metodo
+Um jogo de advinhação em c++
 
 Linguagens, dependencias e libs utilizadas 📚
-C++
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+ 
+ 
+
 
 
